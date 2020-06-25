@@ -1,9 +1,9 @@
 # Term Project
 ## Selected Models
-
-- Gökhan ==> SVM-1, LR-3
-- Ege ==> NB-4 
-- Barkın ==> CNN-2
+- SVM
+- Linear Regression
+- Naïve Bayes
+- CNN 
 
 ## Useful Links
 
