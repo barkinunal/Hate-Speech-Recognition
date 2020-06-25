@@ -1,4 +1,8 @@
 # Term Project
+
+## Final Report
+https://github.com/barkinunal/Hate-Speech-Recognition/blob/master/final_report.pdf
+
 ## Selected Models
 - SVM
 - Linear Regression
